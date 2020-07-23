@@ -97,12 +97,10 @@ ___
 ### Links for Heroku Deployment and GitHub Deployment
 <br>
 Heroku: https://plasma-playlistdashboard.herokuapp.com/
-<!-- https://plasma-playlist.herokuapp.com/login -->
 
 GitHub: https://ccraig7321.github.io/PLASMA/
 <br><br>
-Portfolio Link: 
-<!-- https://ccraig7321.github.io/Responsive-Portfolio/ -->
+Portfolio Link: https://rh9891.github.io/ResponsivePortfolio/
 ___
 
 ### License
